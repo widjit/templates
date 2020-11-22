@@ -68,7 +68,7 @@
         "name": "AUTOMATED_CONVERSION_NON_VIDEO_FILE_ACTION",
         "label": "AUTOMATED_CONVERSION_NON_VIDEO_FILE_ACTION",
         "default": "ignore"
-      },
-   ]
+    }
+  ]
 }
  
