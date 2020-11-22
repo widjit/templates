@@ -48,27 +48,27 @@
         "name": "AUTOMATED_CONVERSION_FORMAT",
         "label": "AUTOMATED_CONVERSION_FORMAT",
         "default": "mp4"
-      }
+      },
       {
         "name": "AUTOMATED_CONVERSION_OUTPUT_SUBDIR",
         "label": "AUTOMATED_CONVERSION_OUTPUT_SUBDIR",
         "default": "SAME_AS_SRC"
-      }
+      },
       {
         "name": "AUTOMATED_CONVERSION_PRESET",
         "label": "AUTOMATED_CONVERSION_PRESET",
         "default": "General/Very Fast 720p30"
-      }
+      },
       {
         "name": "AUTOMATED_CONVERSION_KEEP_SOURCE",
         "label": "AUTOMATED_CONVERSION_KEEP_SOURCE",
         "default": "1"
-      }
+      },
       {
         "name": "AUTOMATED_CONVERSION_NON_VIDEO_FILE_ACTION",
         "label": "AUTOMATED_CONVERSION_NON_VIDEO_FILE_ACTION",
         "default": "ignore"
-      }
+      },
 
     ]
 }
