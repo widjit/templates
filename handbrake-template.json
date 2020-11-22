@@ -1,5 +1,4 @@
-[
-  {
+{
     "type": 1,
     "title": "Handbrake",
     "name": "handbrake",
@@ -72,5 +71,5 @@
       }
 
     ]
-  },
- ]
+},
+ 
