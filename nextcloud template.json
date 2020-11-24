@@ -23,7 +23,7 @@
        {
         "container": "/apps",
         "bind": "!config/nextcloud/apps"
-      }
+      },
        {
         "container": "/data",
         "bind": "path to shared folder"
