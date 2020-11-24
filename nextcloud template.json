@@ -12,7 +12,7 @@
     "restart_policy": "unless-stopped",
     "ports": [
       {
-      "WebUI": "443:443/tcp"
+      "WebUI": "4433:443/tcp"
       }
     ],
     "volumes": [
@@ -37,7 +37,7 @@
         "default": "!PGID"
       },
       {
-        "name": "Time Zone",
+        "name": "TZ",
         "label": "TZ",
         "default": "America/New_York"
       }
