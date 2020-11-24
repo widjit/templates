@@ -24,7 +24,7 @@
         "container": "/data",
         "bind": "path to shared folder"
       }
-    ]
+    ],
     "env": [
       {
         "name": "PUID",
